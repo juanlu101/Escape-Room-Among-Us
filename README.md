@@ -1,16 +1,8 @@
 # Alerta en Kepler-9
 
-Escape room para 4.º de ESO, creado por Juan Luis Torralbo Muñoz.
+Escape room creado por Juan Luis Torralbo Muñoz.
 
 Alguien ha saboteado el soporte vital de la estación espacial Kepler-9 y quedan 60 minutos de oxígeno. Equipos de tres alumnos, cada uno con su dispositivo y un rol distinto (Ingeniería, Seguridad y Ciencia), recorren la estación, reparan siete sistemas, reúnen pruebas y descubren al saboteador.
-
-## Cómo publicarlo en GitHub Pages
-
-1. Crea un repositorio y sube `index.html` y este `README.md`.
-2. En *Settings → Pages*, elige la rama `main` y la carpeta raíz.
-3. Comparte el enlace con los alumnos.
-
-También funciona abriendo `index.html` directamente en el navegador, sin internet (con internet se ven las fuentes tipográficas).
 
 ## Antes de empezar
 
